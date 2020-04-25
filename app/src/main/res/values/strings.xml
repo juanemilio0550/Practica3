@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Grupo_Bani_Practica2</string>
+    <string name="nombre"> Nombre</string>
+    <string name="codigo"> Número de registro</string>
+    <string name="Ciudad_de_nacimiento"> Ciudad de nacimiento</string>
+    <string name="Matricula"> Matricula</string>
+    <string name="Expresion_creativa"> Expresión creativa</string>
+</resources>
